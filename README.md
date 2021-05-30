@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on projects written in C and C++ mainly, as I wanna perfect my C & C++ skills.
 - 📫 If would like to reach out to me, please do so through my email, DanielHougaard@hotmail.com
 
-I currently work at [https://twitter.com/GadenGens](GadenGens), as a backend software developer.
-[GadenGens](https://twitter.com/GadenGens)
+I currently work at [GadenGens](https://twitter.com/GadenGens), as a backend software developer.
+
 
 
 <!---
