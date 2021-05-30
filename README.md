@@ -5,7 +5,7 @@
 - 📫 If would like to reach out to me, please do so through my email, DanielHougaard@hotmail.com
 
 I currently work at [https://twitter.com/GadenGens](GadenGens), as a backend software developer.
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[GadenGens](https://twitter.com/GadenGens)
 
 
 <!---
