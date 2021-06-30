@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielHougaard
-- 👀 I’m interested in computer science, and I've been learning programming since I was 14 years old.
-- 🌱 I’m currently learning Machine Learning alongside Deep Learning.
-- 💞️ I’m looking to collaborate on projects written in C and C++ mainly, as I wanna perfect my C & C++ skills.
+- 👀 I’m a computer science major, and I've been interested in software since I was 14 years old.
+- 🌱 I’m currently learning more about Machine Learning and how it can help us progress. 
+- 💞️ I’m currently not looking to collaborate on any major projects, as I spend most of my time writing code for GadenGens
 - 📫 If would like to reach out to me, please do so through my email, DanielHougaard@hotmail.com
 
 I currently work at [GadenGens](https://twitter.com/GadenGens), as a backend software developer.
