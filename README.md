@@ -9,8 +9,8 @@
 
 <h3>Prefered languages</h3>
 
+* Javascript  <i>(Primarily Node.js) </i>
 * C++
-* Javascript
 * SQL
 
 <h3>Experiance</h3>
