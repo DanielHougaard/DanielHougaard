@@ -21,5 +21,5 @@
 * I've used automatic deployment services such as Heroku a lot in my past, but the past year I've decided to create my own solutions for automatic deployments, rather than using 3rd party services for it. That is just a personal preference though, and I have no problem working with other existing solutions. 
 
 
-I currently work at [GadenGens](https://twitter.com/GadenGens), as a backend software developer & system administrator
+I currently work at [GadenGens](https://twitter.com/GadenGens), as a backend software developer & system administrator<br>
 Contact: DanielHougaard@hotmail.com
