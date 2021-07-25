@@ -14,7 +14,7 @@
 
 <h3>Experiance</h3>
 
-* I have a lot of experiance within the Windows Kernel and memory management in general.
+* I have a lot of experiance within the Windows Kernel and memory management in general. I've picked this expertise up from my early days of doing memory manipulation across applications.
 
 * I primarily work with backend solutions, as that is what I truly enjoy doing in the software industry. I'm also very experianced when it comes to server infustructure and API's. I've created both small scale and large scale API's built on ExpressJS. In addition to that, I have also created my fair share of TCP servers to handle continuous connections.
 
