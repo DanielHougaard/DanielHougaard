@@ -22,3 +22,4 @@
 
 
 I currently work at [GadenGens](https://twitter.com/GadenGens), as a backend software developer & system administrator
+Contact: DanielHougaard@hotmail.com
