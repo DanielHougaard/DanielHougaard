@@ -1,6 +1,6 @@
 <h3>Welcome to my profile!</h3>
 
-* 👋 Hi, I’m @DanielHougaard!
+* 👋 Hi, I’m @DanielHougaard
 *	🌍 I'm from Europe and I currently live in Denmark.
 * 👀 I’m a computer science major, and I wrote my first ever Hello World in C# when I was 14 years old.
 * 🌱 I’m currently learning more about Machine Learning and how it can help us progress. 
