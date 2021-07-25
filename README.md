@@ -1,6 +1,6 @@
 <h3>Welcome to my profile!</h3>
 
-* 👋 Hi, I’m @DanielHougaard
+* 👋 Hi, I’m @DanielHougaard!
 *	🌍 I'm from Europe and I currently live in Denmark.
 * 👀 I’m a computer science major, and I wrote my first ever Hello World in C# when I was 14 years old.
 * 🌱 I’m currently learning more about Machine Learning and how it can help us progress. 
@@ -21,6 +21,11 @@
 
 * I've used automatic deployment services such as Heroku a lot in my past, but the past year I've decided to create my own solutions for automatic deployments, rather than using 3rd party services for it. That is just a personal preference though, and I have no problem working with other existing solutions. 
 
+<h3>Contact me</h3>
+
+|     Methods   |               Details               |
+| ------------- |-------------------------------------|
+| Email         | DanielHougaard@hotmail.com          |
+| Phone number  | Can be exchanged through email      | 
 
 I currently work at [GadenGens](https://twitter.com/GadenGens), as a backend software developer & system administrator<br>
-Contact: DanielHougaard@hotmail.com
