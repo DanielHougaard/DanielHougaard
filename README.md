@@ -4,14 +4,15 @@
 *	🌍 I'm from Europe and I currently live in Denmark.
 * 👀 I’m a computer science major, and I wrote my first ever Hello World in C# when I was 14 years old, amazing right?
 * 🌱 I’m currently learning more about Machine Learning and how it can help us progress. 
-* 💞️ I’m currently not looking to collaborate on any major projects, as I spend most of my time writing code for Gaden Gens.
-* 📫 If would like to reach out to me, please do so through my email, DanielHougaard@hotmail.com
+* 💞️ I’m currently open for business inquiries, if you would like to reach out to me, you can do so through the email listed below.
+* 📫 If would like to reach out to me, please do so through my email, Daniel@HougaardTechnologies.com
 
-<h3>Prefered languages</h3>
+<h3>Prefered Technologies</h3>
 
-* Javascript  <i>(Primarily Node.js) </i>
-* C++
+* Javascript <i>(Primarily Node.js) </i>
+* C++ & C
 * SQL
+* MongoDB
 
 <h3>Experiance</h3>
 
@@ -25,7 +26,7 @@
 
 |     Methods   |               Details               |
 | ------------- |-------------------------------------|
-| Email         | DanielHougaard@hotmail.com          |
+| Email         | Daniel@HougaardTechnologies.com     |
 | Phone number  | Can be exchanged through email      | 
 
 I currently work as chief of operations & consultant for Hougaard Technologies ApS<br>
