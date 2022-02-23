@@ -28,4 +28,4 @@
 | Email         | DanielHougaard@hotmail.com          |
 | Phone number  | Can be exchanged through email      | 
 
-I currently work at [Gaden Software ApS](https://twitter.com/GadenGens), as a system administrator and backend software developer<br>
+I currently work as chief of operations & consultant for Hougaard Technologies ApS<br>
