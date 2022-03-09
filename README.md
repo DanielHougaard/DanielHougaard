@@ -28,5 +28,5 @@
 | ------------- |-------------------------------------|
 | Email         | Daniel@HougaardTechnologies.com     |
 | Phone number  | Can be exchanged through email      | 
-
-I currently work as chief of operations & consultant for Hougaard Technologies ApS<br>
+<br/>
+I currently work as director & consultant at Hougaard Technologies ApS
