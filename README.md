@@ -1,3 +1,4 @@
+<h2>Welcome to my profile!</h2>
 Meet Daniel, an ambitious young man with a passion for technology and innovation. Daniel is a full-time software engineer and enjoys stargazing and movie nights in his spare time.
 
 Over the years, Daniel has honed his coding skills and is fluent in several programming languages. His preferred language is currently TypeScript, but he is also proficient in Python and C++.
@@ -7,6 +8,7 @@ He enjoys working with others and is always willing to take on new challenges.
 
 Looking to the future, Daniel hopes to continue to develop his skills and work on projects that have a positive impact on society.
 He strongly believes that technology can be a powerful tool for change and is committed to changing the world through his work.
+<h2></h2>
 <br/><br/>
 
 Okay, was that too cheesy?
