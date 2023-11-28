@@ -14,3 +14,5 @@ He strongly believes that technology can be a powerful tool for change and is co
 Okay, was that too cheesy?
 Anyways long story short, I've worked with software for as long as I can remember, and it never fails to amaze me with new topics to learn.
 If you wish to get touch with me, shoot me message on my [LinkedIn page](https://www.linkedin.com/in/danielhougaard/)!
+
+![](https://komarev.com/ghpvc/?username=danielhougaard&color=green)
